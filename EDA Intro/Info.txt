@@ -1,0 +1,1 @@
+This folder contains the dataset that we shall be using for EDA Intro Project on Day 6
